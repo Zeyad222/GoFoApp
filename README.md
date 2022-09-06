@@ -1,5 +1,6 @@
-# GoFoApp
-# Online Application for Booking playgrounds
+# Software Engineering Project
+## GoFoApp
+## Online Application for Booking playgrounds
 
 ## Team members:
 * Mostafa Ahmed
